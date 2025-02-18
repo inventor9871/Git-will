@@ -3,4 +3,7 @@
 
 ## Git 筆記
 1. 安裝Git，點選下一步即可。
+* 用gitbash 看版本
+``` git version
+```
 2. 設定使用者與email
