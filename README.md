@@ -28,6 +28,7 @@ git config --global user.name '您的帳號'
 將要忽略的檔案或是副檔名寫入到.gitignore，在 add 與 commit。
 
 5. 還原到這次的 commit，有時修改壞了，就重新來過。
+
 git reset --hard
 
 ## GitHub 練習
