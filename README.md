@@ -28,8 +28,7 @@ git config --global user.name '您的帳號'
 將要忽略的檔案或是副檔名寫入到.gitignore，在 add 與 commit。
 
 5. 還原到這次的 commit，有時修改壞了，就重新來過。
-
-git reset --hard
+* git reset --hard
 
 ## GitHub 練習
 6. 註冊github
@@ -43,7 +42,7 @@ git reset --hard
 11. 查看有哪些分支。 git branch
 12. 新增分支，git branch feature1
 13. 切換分支，git checkout 分支名。
-切換主支，git checkout main
+    切換主支，git checkout main
 14. 合併分支前，要先切換到主支，才能合併。
 ```
 git merge feature1
