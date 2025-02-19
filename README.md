@@ -19,10 +19,10 @@ git config --global user.email '您的email'
 git config --global user.name '您的帳號'
 ```
 3. 基本指令
-檢查狀態， git status
-加入索引， git add .
-提交更新， git commit -m '修改訊息'
-提交後查詢， git log
+* 檢查狀態， git status
+* 加入索引， git add .
+* 提交更新， git commit -m '修改訊息'
+* 提交後查詢， git log
 
 4. [忽略的檔案](https://github.com/github/gitignore)
 將要忽略的檔案或是副檔名寫入到.gitignore，在 add 與 commit。
