@@ -27,8 +27,8 @@ git config --global user.name '您的帳號'
 4. [忽略的檔案](https://github.com/github/gitignore)
 將要忽略的檔案或是副檔名寫入到.gitignore，在 add 與 commit。
 
-5. 還原到這次的 commit，有時修改壞了，就重新來過。
-* git reset --hard
+5. 還原到這次的 commit，有時修改壞了，就重新來過。<br>
+git reset --hard
 
 ## GitHub 練習
 6. 註冊github
@@ -41,7 +41,7 @@ git config --global user.name '您的帳號'
 10. github的主支叫 main(也可以修改)。分支的好處是不會影響到主支。
 11. 查看有哪些分支。 git branch
 12. 新增分支，git branch feature1
-13. 切換分支，git checkout 分支名。
+13. 切換分支，git checkout 分支名。<br>
     切換主支，git checkout main
 14. 合併分支前，要先切換到主支，才能合併。
 ```
@@ -70,6 +70,6 @@ git merge feature1
 ，儲存後等一下，再點選剛剛的pages，就會出現網址。
 
 19. 其他資源
-[連猴子都會GIT](https://backlogtool.com/git-guide/tw/)、
+[連猴子都會GIT](https://backlogtool.com/git-guide/tw/)<br>
 [GIT官方網站](https://git-scm.com/book/zh-tw/v1)
 
