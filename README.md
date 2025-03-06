@@ -70,7 +70,6 @@ git merge feature1
 ，儲存後等一下，再點選剛剛的pages，就會出現網址。
 
 19. 其他資源
-<br>
- [連猴子都會GIT](https://backlogtool.com/git-guide/tw/)<br>
+* [連猴子都會GIT](https://backlogtool.com/git-guide/tw/)<br>
 [GIT官方網站](https://git-scm.com/book/zh-tw/v1)
 
