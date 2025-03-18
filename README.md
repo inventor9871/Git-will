@@ -33,6 +33,8 @@ git reset --hard
 ## GitHub 練習
 6. 註冊github
 7. 建議先在github建立repo，在clone下來。修改完就可以push傳回去(16會說明)。
+* 但很奇怪，用 gitbash 會出現 fatal: protocol 'https' is not supported
+* 所以改用 VScode 來做 git clone動作。
 
 8. 第一次 git clone 會問 web密碼 或是 token。
 9. 可以搜尋別人的專案，但要注意更新時間，太舊的就...
