@@ -5,7 +5,7 @@
 * 安裝git，是在自己的電腦安裝git數據庫。
 * 註冊github，是要使用github提供的數據庫。
 * 不管在本機或是github編輯完，都要 add 與 commit (加入到數據庫)。
-* push上傳，pull下載，都是抓commit傳送。
+* push上傳，pull下載，都是抓commit的資訊來傳送。
 
 ## Git 基本操作
 1. 安裝Git，點選下一步即可。用gitbash 看版本
@@ -25,14 +25,14 @@ git config --global user.name '您的帳號'
 * 提交後查詢， git log
 
 4. [忽略的檔案](https://github.com/github/gitignore)
-將要忽略的檔案或是副檔名寫入到.gitignore，在 add 與 commit。
+將要忽略的檔案或是副檔名寫入到.gitignore，再 add 與 commit。
 
 5. 還原到這次的 commit，有時修改壞了，就重新來過。<br>
 git reset --hard
 
 ## GitHub 練習
 6. 註冊github
-7. 建議先在github建立repo，在clone下來。修改完就可以push傳回去(16會說明)。
+7. 建議先在 github 建立 repo，再 clone 下來。修改完就可以 push 傳回去(16會說明)。
 * 但很奇怪，用 gitbash 會出現 fatal: protocol ' https' is not supported
 * 所以改用 VScode 來做 git clone動作。
 
